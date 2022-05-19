@@ -3,4 +3,4 @@
 - I have also worked with Arduino`s for home automation and for work with NMEA generators.
 - 🌱 I’m currently learning python and still a beginner, completed various courses on youtube, quite recenetly I wrote a small code and it worked first time.
 - 💞️ I’m looking to collaborate on nothing at the moment, I`m certain I would hold up any work you might have.
-- 📫 How to reach me birdog@live.co.uk
+- 📫 How to reach me 
